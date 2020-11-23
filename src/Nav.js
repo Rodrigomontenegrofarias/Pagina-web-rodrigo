@@ -37,7 +37,7 @@ function Nav() {
                 
             </ul> 
             <ul className="nav-links">
-                <Link style={navStyle} to='/video'>
+                <Link style={navStyle} to='/Video'>
                     <li>
                         Video
                     </li>
@@ -46,7 +46,7 @@ function Nav() {
                 
             </ul> 
             <ul className="nav-linkss">
-                <Link style={navStyle} to='/shop'>
+                <Link style={navStyle} to='/Shop'>
                     <li>
                         Shop
                     </li>
