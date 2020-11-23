@@ -3,7 +3,7 @@
 // eslint-disable-next-line no-unused-expressions
 import React from 'react';
 import { validate } from './rut';
-import Buton from './Buton';
+import Menu2 from './Menu2';
 
 export default function MiValidador(params) {
     const [rutIngresado, setRutIngresado] = React.useState(params.valor);
@@ -32,12 +32,12 @@ export default function MiValidador(params) {
             su contraseña es: {clave} <br/>
             
             
-
+            <div className="App-izq1">
+                <Menu2/>
+            </div>
 
         </div>
-        <div className="App-B">
-            <Buton/>
-        </div>
+        
 
     </p> 
     return ( <div> 
