@@ -78,6 +78,15 @@
             margin-left: -1%;
         }
         
+        .App-izq1 {
+            min-height: 20%;
+            color: black;
+            text-align: left;
+            margin-top: -5.7rem;
+            margin-right: 15%;
+            margin-left: -1%;
+        }
+        
         .App-header1 {
             background-color: black;
             min-height: 60%;
