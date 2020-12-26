@@ -3,9 +3,9 @@ import React from "react";
 import './App.css';
 //import EmbedExampleYouTube from './EmbedExampleYouTube';
 
-import Menu2 from './Menu2';
+//import Menu2 from './Menu2';
 
-import ImageExampleGroupSize from './ImageExampleGroupSize';
+import ImageExampleGroupSize from './componentes/ImageExampleGroupSize';
 
 
 //Import web
@@ -24,7 +24,7 @@ function Shop() {
   return (
     <div>
       <div className="App-izq">
-                <Menu2/>
+                
       </div>
       <div>
       

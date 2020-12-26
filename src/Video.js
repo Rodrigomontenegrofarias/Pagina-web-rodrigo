@@ -2,8 +2,8 @@
 //import 'semantic-ui-css/semantic.min.css'
 import React from "react";
 import './App.css';
-import EmbedExampleYouTube from './EmbedExampleYouTube';
-import Menu2 from './Menu2';
+import EmbedExampleYouTube from './componentes/EmbedExampleYouTube';
+//import Menu2 from './Menu2';
 import Megusta from './Megusta';
 
 
@@ -24,7 +24,7 @@ function About() {
   return (
     <div>
       <div className="App-izq">
-                <Menu2/>
+              
       </div>
       <div>
       

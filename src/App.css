@@ -123,12 +123,13 @@
         
         .App-Formulario {
             min-height: 100%;
-            background-color: gray;
-            width: 80.6%;
+            background-color: greenyellow;
+            width: 100%;
             text-align: center;
             align-items: center;
-            margin-left: 11.8%;
             margin-top: 6.6rem;
             margin-bottom: auto;
             color: black;
+            height: auto;
+            margin-left: auto;
         }

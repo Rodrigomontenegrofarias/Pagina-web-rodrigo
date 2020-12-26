@@ -3,7 +3,7 @@
 // eslint-disable-next-line no-unused-expressions
 import React from 'react';
 import { validate } from './rut';
-import Menu2 from './Menu2';
+import Menu2 from '../Menu2';
 
 export default function MiValidador(params) {
     const [rutIngresado, setRutIngresado] = React.useState(params.valor);

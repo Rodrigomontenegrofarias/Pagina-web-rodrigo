@@ -3,9 +3,9 @@
 import React from "react";
 import './App.css';
 //import EmbedExampleYouTube from './EmbedExampleYouTube';
-import Menu2 from './Menu2';
+//import Menu2 from './Menu2';
 
-import Formulario from './Formulario';
+import Formulario from './componentes/Formulario';
 
 
 
@@ -25,7 +25,7 @@ function Formulario1() {
   return (
     <div>
       <div className="App-izq">
-                <Menu2/>
+               
       </div>
       <div>
     
@@ -34,7 +34,7 @@ function Formulario1() {
             <h1>
                     Formulario Page
             </h1>
-            <div className="App-Formulario">
+            <div className="App-Formulario" >
                 <Formulario/>
             </div>
             </div>  

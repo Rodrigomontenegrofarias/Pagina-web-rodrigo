@@ -6,8 +6,7 @@ class Miimagen extends Component {
     render() {
         return ( 
         <div>
-            <img src = "https://i.blogs.es/6c558d/luna-400mpx/1366_2000.jpg"
-            />
+            <img src = "https://i.blogs.es/6c558d/luna-400mpx/1366_2000.jpg" width="100%" height="700px" />
         </div>
         );
 

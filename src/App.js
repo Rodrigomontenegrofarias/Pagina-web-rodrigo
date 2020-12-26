@@ -15,7 +15,7 @@ import {BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import Shop from './Shop';
 import Video from './Video';
 
-import MiValidador from './MiValidador';
+import MiValidador from './componentes/MiValidador';
 import Miimagen from './Miimagen';
 import Perfil from './Perfil';
 //import Buton from './Buton';
