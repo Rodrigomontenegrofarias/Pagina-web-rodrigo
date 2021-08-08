@@ -1,21 +1,10 @@
         .App {
-            background-color: black;
+          
             text-align: center;
         }
         
-        .App-B {
-            text-align: center;
-            margin-left: 1.35%;
-            margin-right: 1.4%;
-            margin-top: 2.4%;
-            background-color: black;
-        }
-        
-        .App-Perfil {
-            text-align: center;
-            width: 80.6%;
-        }
-        
+     
+
         .App-text {
             text-align: center;
             margin-top: -90%;
@@ -27,17 +16,7 @@
             margin-top: -17.6rem;
         }
         
-        .App-imagen {
-            min-height: 100%;
-            background-color: gray;
-            width: 80.6%;
-            text-align: center;
-            align-items: center;
-            margin-left: 11.8%;
-            margin-top: 6.6rem;
-            margin-bottom: auto;
-            color: black;
-        }
+       
         
         .App-fig {
             min-height: 50%;
@@ -62,49 +41,41 @@
         }
         
         .App-Footer {
-            color: black;
-            background-color: black;
-            margin-top: auto;
-            margin-right: auto;
-            margin-left: auto;
+
+            background-color: rgb(17, 112, 107);
+           
         }
         
-        .App-izq {
-            min-height: 40%;
-            color: black;
-            text-align: left;
-            margin-top: 9rem;
-            margin-right: 15%;
-            margin-left: -1%;
-        }
-        
+  
         .App-izq1 {
             min-height: 20%;
             color: black;
-            text-align: left;
+            text-align: center;
             margin-top: -5.7rem;
-            margin-right: 15%;
+         
             margin-left: -1%;
+            
         }
         
         .App-header1 {
-            background-color: black;
-            min-height: 60%;
-            display: flex;
+            background-color: rgb(17, 112, 107);
+            min-height: 20%;
+            display: center;
             text-align: center;
             color: black;
+            
         }
         
         .nav-links {
             width: 40%;
-            display: flex;
+            display: center;
             justify-content: space-around;
             align-items: center;
             list-style: none;
         }
         
         .nav-linkss {
-            width: 40%;
+            width: 20%;
             display: flex;
             justify-content: space-around;
             align-items: center;
@@ -118,18 +89,6 @@
             min-height: 10vh;
             background-color: cadetblue;
             color: black;
-            background-color: black;
+            background-color: rgba(165, 167, 166, 0);
         }
-        
-        .App-Formulario {
-            min-height: 100%;
-            background-color: greenyellow;
-            width: 100%;
-            text-align: center;
-            align-items: center;
-            margin-top: 6.6rem;
-            margin-bottom: auto;
-            color: black;
-            height: auto;
-            margin-left: auto;
-        }
+     

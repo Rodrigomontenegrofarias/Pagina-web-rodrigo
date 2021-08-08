@@ -28,32 +28,17 @@ function Nav() {
                 
             </ul> 
             <ul className="nav-links">
-                <Link style={navStyle} to='/Formulario'>
+                <Link style={navStyle} to='/Formulario1'>
                     <li>
-                        Formulario
+                        Formulario1
                     </li>
 
                 </Link>
                 
             </ul> 
-            <ul className="nav-links">
-                <Link style={navStyle} to='/Video'>
-                    <li>
-                        Video
-                    </li>
-
-                </Link>
-                
-            </ul> 
-            <ul className="nav-linkss">
-                <Link style={navStyle} to='/Shop'>
-                    <li>
-                        Shop
-                    </li>
-
-                </Link>
-                
-            </ul>   
+           
+         
+         
         </nav>
 
     );

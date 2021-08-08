@@ -5,7 +5,6 @@ import './App.css';
 //import EmbedExampleYouTube from './EmbedExampleYouTube';
 //import Menu2 from './Menu2';
 
-import Formulario from './componentes/Formulario';
 
 
 
@@ -23,23 +22,19 @@ function Formulario1() {
   //console.log("modal state", openModal);
   
   return (
-    <div>
-      <div className="App-izq">
-               
-      </div>
+    
+      
       <div>
     
             
-        <div className="App-EM">
-            <h1>
+            <div >
+              <h1>
                     Formulario Page
-            </h1>
-            <div className="App-Formulario" >
-                <Formulario/>
-            </div>
+              </h1>
+           
             </div>  
       </div>
-</div>
+    
     
   );
 }

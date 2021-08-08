@@ -3,7 +3,6 @@ import React from "react";
 import './App.css';
 //import EmbedExampleYouTube from './EmbedExampleYouTube';
 //import Menu2 from './Menu2';
-import ImagenPerfil from './componentes/ImagenPerfil';
 
 //import { validate } from "./rut";
 
@@ -28,24 +27,14 @@ function Perfil() {
   
   return (
     <div>
-        <div className="App-izq">
-                  
-        </div>
-        <div>
-      
-                <div className="App-EM">
-                    <h1>
-                            Perfil Page
-                    </h1>
-
-                    
-                    <ImagenPerfil/>
-               
-                  
-                </div>  
-                
-        </div>
-
+    
+            
+            <div >
+              <h1>
+                    Perfil Page
+              </h1>
+           
+            </div>  
     </div>
 
 
