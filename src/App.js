@@ -6,10 +6,13 @@ import React from "react";
 import './App.css';
 import Nav from './Nav';
 import M from './M';
-
-import Formulario1 from './Formulario1';
+import Prueba from './Prueba';
+//import Formulario1 from './Formulario1';
 import { Segment } from 'semantic-ui-react';
 import {BrowserRouter as Router, Switch, Route } from 'react-router-dom';
+
+import Contactanos from './Contactanos';
+
 
 
 
@@ -46,8 +49,9 @@ function App() {
                     <div>
                       <Switch>
                           <Route path="/" exact component={Home}/> 
-                          <Route path="/Perfil"  component={Perfil}/>
-                          <Route path="/Formulario1"  component={Formulario1}/> 
+                          <Route path="/Acerca de"  component={Perfil}/>
+                          
+                          <Route path="/Contactanos"  component={Contactanos}/> 
                       </Switch>
                     </div>
                   </div> 
@@ -85,6 +89,7 @@ const Home = () => (
       </p>
       <p> Imagenes   
       </p> 
+      <Prueba/>
   </div>
 )
 

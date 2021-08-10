@@ -19,18 +19,19 @@ function Nav() {
                 
             </ul>
             <ul className="nav-links">
-                <Link style={navStyle} to='/Perfil'>
+                <Link style={navStyle} to='/Acercade'>
                     <li>
-                        Perfil
+                        Acerca de 
                     </li>
 
                 </Link>
                 
             </ul> 
+           
             <ul className="nav-links">
-                <Link style={navStyle} to='/Formulario1'>
+                <Link style={navStyle} to='/Contactanos'>
                     <li>
-                        Formulario1
+                        Contactanos
                     </li>
 
                 </Link>
