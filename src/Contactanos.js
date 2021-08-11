@@ -36,7 +36,7 @@ function Contactanos() {
       style={{
       marginTop: "50px",
       width: "100%",
-      backgroundImage: `url('https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Petorca_Chile.jpg/800px-Petorca_Chile.jpg')`,
+      backgroundImage: `url('https://www.hd-tecnologia.com/imagenes/articulos/2017/10/Nvidia-se-asocia-con-Gigabyte-y-Leadtek-para-proyecto-con-Inteligencia-Artificial.jpg')`,
       backgroundPosition: "center",
       backgroundSize: "cover",
       
