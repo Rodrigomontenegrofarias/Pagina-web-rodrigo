@@ -8,7 +8,7 @@ const M = () => (
       <h1>Logo</h1>
       </Grid.Column>
       <Grid.Column>
-      <h1>Jaime Paredes</h1>
+      <h1>Rodrigo Montenegro</h1>
       </Grid.Column>
       <Grid.Column>
             <div >
