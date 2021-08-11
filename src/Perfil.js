@@ -31,25 +31,16 @@ function Perfil() {
             
             <div >
               <h1>
-                    Perfil Page
+                  Bibliografia
+
               </h1>
-              <Segment basic textAlign='center'>
-                <Input
-                  action={{ color: 'blue', content: 'Search' }}
-                  icon='search'
-                  iconPosition='left'
-                  placeholder='Order #'
-                />
+              <h5>
+              Mi nombre es Rodrigo Montenegro, tengo 24 años, soy estudiante de Ingenieria Informatica en la Universidad de Valparaiso.
+              Me encuentro en mi ultimo año y me encanta aprender tecnologia basada en la informatica.
 
-                <Divider horizontal></Divider>
 
-                <Button
-                  color='teal'
-                  content='Create New Order'
-                  icon='add'
-                  labelPosition='left'
-                />
-              </Segment>
+              </h5>
+             
             </div>  
     </div>
 
