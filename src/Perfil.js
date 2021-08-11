@@ -12,7 +12,7 @@ import './App.css';
 
 
 
-
+import { Button, Divider, Input, Segment } from 'semantic-ui-react'
 
 function Perfil() {
 // eslint-disable-next-line
@@ -33,7 +33,23 @@ function Perfil() {
               <h1>
                     Perfil Page
               </h1>
-           
+              <Segment basic textAlign='center'>
+                <Input
+                  action={{ color: 'blue', content: 'Search' }}
+                  icon='search'
+                  iconPosition='left'
+                  placeholder='Order #'
+                />
+
+                <Divider horizontal></Divider>
+
+                <Button
+                  color='teal'
+                  content='Create New Order'
+                  icon='add'
+                  labelPosition='left'
+                />
+              </Segment>
             </div>  
     </div>
 
